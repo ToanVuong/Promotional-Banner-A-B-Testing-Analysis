@@ -232,10 +232,7 @@ ab-testing-banner-analysis/
 │
 ├── README.md
 ├── ab_testing_analysis.ipynb
-├── ab_testing_analysis.py
-├── data/
-│   └── abtesting.csv
-└── requirements.txt
+├── abtesting.csv
 ```
 
 ---
