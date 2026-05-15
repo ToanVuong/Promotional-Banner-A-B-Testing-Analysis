@@ -245,16 +245,12 @@ Clone this repository:
 git clone https://github.com/your-username/ab-testing-banner-analysis.git
 ```
 
-Install required packages:
-
-```bash
-pip install -r requirements.txt
 ```
 
 Run the notebook or Python script:
 
 ```bash
-python ab_testing_analysis.py
+python ab_testing_analysis.ipynb
 ```
 
 ---
